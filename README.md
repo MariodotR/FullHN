@@ -4,7 +4,7 @@
 
 # Qualitative Analysis
 
-<img width="374" alt="image" src="https://user-images.githubusercontent.com/70358709/235372548-cd0e5385-925b-4e38-931f-5505ac63839b.png">
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/70358709/235372548-cd0e5385-925b-4e38-931f-5505ac63839b.png">
 
 
 We will compare image retrieval, considering F HN as the best model for intra-modal search and HN for cross-modal search. In Fig (a), we can observe the top 5 retrievals with the image as a query and Figures (b)-(f) for each of the associated captions as queries.
