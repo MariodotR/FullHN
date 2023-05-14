@@ -1,6 +1,8 @@
 # Enhancing intra-modal similarity in a cross-modal triplet loss
 
-Tensorflow Code for the paper. 
+Tensorflow Code for the paper. Results and embeddings are available at the following link:
+
+https://usmcl-my.sharepoint.com/:u:/r/personal/mario_mallea_sansano_usm_cl/Documents/rep-limpio.zip?csf=1&web=1&e=eNNbaz
 
 
 # Qualitative Analysis
