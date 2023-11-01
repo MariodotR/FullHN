@@ -4,6 +4,11 @@ Tensorflow Code for the paper, results and embeddings are available at the follo
 
 https://usmcl-my.sharepoint.com/:u:/g/personal/mario_mallea_sansano_usm_cl/EQDTJgNX-ytCk9vXqizNKV0BJ4lTQE6t5ul5zQa3C3FLNw?e=entj0A 
 
+About semantic ndcg:
+
+https://github.com/mesnico/TERAN
+
+
 # Qualitative Analysis
 
 <img width="474" alt="image" src="https://user-images.githubusercontent.com/70358709/235372548-cd0e5385-925b-4e38-931f-5505ac63839b.png">
