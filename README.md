@@ -2,8 +2,7 @@
 
 Tensorflow Code for the paper, results and embeddings are available at the following link:
 
-https://usmcl-my.sharepoint.com/:u:/r/personal/mario_mallea_sansano_usm_cl/Documents/rep-limpio.zip?csf=1&web=1&e=eNNbaz
-
+https://usmcl-my.sharepoint.com/:u:/g/personal/mario_mallea_sansano_usm_cl/EQDTJgNX-ytCk9vXqizNKV0BJ4lTQE6t5ul5zQa3C3FLNw?e=entj0A 
 
 # Qualitative Analysis
 
