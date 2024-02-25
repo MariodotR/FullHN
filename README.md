@@ -7,3 +7,7 @@ https://usmcl-my.sharepoint.com/:u:/g/personal/mario_mallea_sansano_usm_cl/EQDTJ
 About semantic ndcg:
 
 https://github.com/mesnico/TERAN
+
+ALIGN:
+
+https://huggingface.co/docs/transformers/model_doc/align#transformers.AlignVisionModel
