@@ -11,3 +11,6 @@ https://github.com/mesnico/TERAN
 ALIGN:
 
 https://huggingface.co/docs/transformers/model_doc/align#transformers.AlignVisionModel
+
+F-TERAN code is built on top of TERAN, F-TERAN embeddings are available at the following link:
+
