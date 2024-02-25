@@ -14,3 +14,5 @@ https://huggingface.co/docs/transformers/model_doc/align#transformers.AlignVisio
 
 F-TERAN code is built on top of TERAN, F-TERAN embeddings are available at the following link:
 
+https://usmcl-my.sharepoint.com/:u:/g/personal/mario_mallea_sansano_usm_cl/EUtwBIDpPHpBliPCZWCeQoAB7VtintXUledomuHZ7AOPjQ?e=hGm8DC
+
