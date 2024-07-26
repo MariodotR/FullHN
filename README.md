@@ -16,3 +16,10 @@ F-TERAN code is built on top of TERAN, F-TERAN embeddings are available at the f
 
 https://usmcl-my.sharepoint.com/:u:/g/personal/mario_mallea_sansano_usm_cl/EUtwBIDpPHpBliPCZWCeQoAB7VtintXUledomuHZ7AOPjQ?e=hGm8DC
 
+ROCO:
+
+Embeddings, Rouge-L and PubMedBert:
+
+https://usmcl-my.sharepoint.com/:u:/g/personal/mario_mallea_sansano_usm_cl/EVr-sloXfhVJrvbGtTWV4eEBF3KvqVdUfReuT6p5YJZxVw?e=P0fODo
+
+
