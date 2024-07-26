@@ -22,4 +22,6 @@ Embeddings, Rouge-L and PubMedBert:
 
 https://usmcl-my.sharepoint.com/:u:/g/personal/mario_mallea_sansano_usm_cl/EVr-sloXfhVJrvbGtTWV4eEBF3KvqVdUfReuT6p5YJZxVw?e=P0fODo
 
+Dataset: 
+https://www.kaggle.com/datasets/virajbagal/roco-dataset
 
